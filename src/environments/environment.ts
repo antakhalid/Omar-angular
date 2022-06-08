@@ -10,7 +10,7 @@ export const environment = {
     logoUrl: '',
   },
   oAuthConfig: {
-    issuer: 'http://khalidanta-001-site1.dtempurl.com',
+    issuer: 'http://jeehan14-001-site1.itempurl.com',
     redirectUri: baseUrl,
     clientId: 'BookStore_App',
     responseType: 'code',
@@ -19,7 +19,7 @@ export const environment = {
   },
   apis: {
     default: {
-      url: 'http://khalidanta-001-site1.dtempurl.com',
+      url: 'http://jeehan14-001-site1.itempurl.com',
       rootNamespace: 'Acme.BookStore',
     },
   },
